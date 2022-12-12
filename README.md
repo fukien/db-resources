@@ -19,5 +19,5 @@
 [UW-Madison CS 764 – Topics in Database Management Systems](https://pages.cs.wisc.edu/~yxy/cs764-f20/index.html)  
 [UW-Madison CS 839 – Design the Next-Generation Database](https://pages.cs.wisc.edu/~yxy/cs839-s20/index.html)  
 [UW-Madison CS 784 – Foundations of Data Management](https://pages.cs.wisc.edu/~paris/cs784-s22/)  
-[TUM DB Group](https://db.in.tum.de/teaching/?lang=en)  
+[TUM DB Group Teaching](https://db.in.tum.de/teaching/?lang=en)  
 [UCR CS 214 – Parallel Algorithms](https://www.cs.ucr.edu/~ygu/teaching/214/W23/index.html)  
