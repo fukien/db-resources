@@ -12,6 +12,16 @@
 [CMU Database Group Seminar](https://db.cs.cmu.edu/seminar2022/)  
 [Talks of C. Mohan](https://duk.ac.in/seemohan/C.%20Mohan's%20Presentations%20Interviews%20PPTs%20Videos%20Abstracts.xlsx)  
 
+## Blogs
+[The SIGMOD Blog](https://wp.sigmod.org/)  
+[The SIGOPS Blog](https://www.sigops.org/blog/)  
+[Computer Architecture Today](https://www.sigarch.org/blog/)  
+[DBMS Musings](http://dbmsmusings.blogspot.com/)  
+[Database Architects](http://databasearchitects.blogspot.com/)  
+[Andy Pavlo's Blogs](http://www.cs.cmu.edu/~pavlo/blog/index.html)  
+[Daniel Lemire's Blogs](https://lemire.me/blog/)
+
+
 ## Courses
 [CMU CS 15-445/645 — INTRO TO DATABASE SYSTEMS](https://15445.courses.cs.cmu.edu/) 
 [CMU CS 15-721 — ADVANCED DATABASE SYSTEMS](https://15721.courses.cs.cmu.edu/)  
