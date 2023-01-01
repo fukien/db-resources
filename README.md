@@ -5,6 +5,7 @@
 [Suggested Papers by Xin Luna Dong](https://lunadong.com/resources.htm)  
 [CMU CS 15-721 — ADVANCED DATABASE SYSTEMS](https://15721.courses.cs.cmu.edu/spring2020/papers/)  
 [TUM Modern Database Systems](https://db.in.tum.de/teaching/ss22/seminarModernDatabaseSystems/?lang=en)  
+[Database Systems Reading List](https://github.com/jarulraj/databaseology)  
 [DBMS Indexology](https://github.com/yingjunwu/DBMS-Indexology)  
 [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)  
 [Quals Reading List in Databases](https://db.cs.washington.edu/internals.html)  
