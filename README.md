@@ -23,7 +23,8 @@
 [Database Architects](http://databasearchitects.blogspot.com/)  
 [Big and Fast Data](http://bigfastdata.blogspot.com/)  
 [Andy Pavlo's Blogs](http://www.cs.cmu.edu/~pavlo/blog/index.html)  
-[Daniel Lemire's Blogs](https://lemire.me/blog/)
+[Daniel Lemire's Blogs](https://lemire.me/blog/)  
+[CMU CSD PhD Blog](https://www.cs.cmu.edu/~csd-phd-blog/)  
 
 
 ## Courses
