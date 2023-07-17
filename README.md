@@ -3,7 +3,7 @@
 ## Papers
 [Suggested Papers by C. Mohan](https://drive.google.com/file/d/1wStneyPIou7FnITYG_LQEVZAAvhKZYoq/view)  
 [Suggested Papers by Xin Luna Dong](https://lunadong.com/resources.htm)  
-[CMU CS 15-721 — ADVANCED DATABASE SYSTEMS](https://15721.courses.cs.cmu.edu/spring2020/papers/)  
+[CMU CS 15-721 — ADVANCED DATABASE SYSTEMS](https://15721.courses.cs.cmu.edu/spring2023/papers/)  
 [TUM Modern Database Systems](https://db.in.tum.de/teaching/ss22/seminarModernDatabaseSystems/?lang=en)  
 [Database Systems Reading List](https://github.com/jarulraj/databaseology)  
 [DBMS Indexology](https://github.com/yingjunwu/DBMS-Indexology)  
