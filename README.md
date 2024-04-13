@@ -34,6 +34,8 @@
 [UW-Madison CS 764 – Topics in Database Management Systems](https://pages.cs.wisc.edu/~yxy/cs764-f20/index.html)  
 [UW-Madison CS 839 – Design the Next-Generation Database](https://pages.cs.wisc.edu/~yxy/cs839-s20/index.html)  
 [UW-Madison CS 784 – Foundations of Data Management](https://pages.cs.wisc.edu/~paris/cs784-s22/)  
+[Harvard CS 165 - Data Systems](http://daslab.seas.harvard.edu/classes/cs165/)  
+[Harvard CS 265 - Big Data Systems](http://daslab.seas.harvard.edu/classes/cs265/)  
 [UCR CS 214 – Parallel Algorithms](https://www.cs.ucr.edu/~ygu/teaching/214/W23/index.html)  
 [TUM Data Processing on Modern Hardware](https://db.in.tum.de/teaching/ss20/dataprocessingonmodernhardware/index.shtml?lang=en)  
 [TUM Database Systems on Modern CPU Architectures](https://db.in.tum.de/teaching/ss22/moderndbs/?lang=en)  
