@@ -1,6 +1,7 @@
 # DB Resources
 
 ## Papers
+[Most influential database papers](https://rmarcus.info/blog/2023/07/25/papers.html)  
 [Suggested Papers by C. Mohan](https://drive.google.com/file/d/1wStneyPIou7FnITYG_LQEVZAAvhKZYoq/view)  
 [Suggested Papers by Xin Luna Dong](https://lunadong.com/resources.htm)  
 [CMU CS 15-721 — ADVANCED DATABASE SYSTEMS](https://15721.courses.cs.cmu.edu/spring2023/papers/)  
